@@ -5,12 +5,14 @@
 
 Datum
 
-/* wat moet er zeker in:
+/* 
+wat moet er zeker in:
 - De anthropometrische analyse en belangrijkste bevindingen die hieruit voortvloeien
 - Foto’s van het prototype en de test (annoteer en beschrijf wat er op de foto’s te zien is).
 - Een link naar het testprotocol
 - Een link naar de analyse van de test
-- Design requirements of ontwerpbeslissingen */
+- Design requirements of ontwerpbeslissingen
+*/
 
 
 ## Samenvatting
