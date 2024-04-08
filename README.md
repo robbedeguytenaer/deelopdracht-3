@@ -26,10 +26,12 @@ Voor omtrek, diepte en breedte bepalen we de toepasselijke ontwerpstrategie: des
 
 ### Data
 Een samenvatting van de ruwe data is hieronder te vinden.
+
 DINBelg
 <p>
 <img width="100%" src="beeldmateriaal/DINBelg hoofd diepte en breedte.png"/>
 </p>
+
 DINED
 <p align="center">
 <img width="75%" src="beeldmateriaal/DINED hoofd omtrek, diepte en breedte.png"/>
