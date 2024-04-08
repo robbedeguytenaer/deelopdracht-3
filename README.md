@@ -30,7 +30,16 @@ Een samenvatting van de ruwe data is hieronder te vinden.
 </p>
 
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+Omdat DINED enkel over data beschikt tot 7-8 jarigen, en we bij DINBelg alle data hebben die nodig is over de hoofd diepte en breedte, besluiten we voor deze twee maten enkel data uit DINBelg te gebruiken. Omdat we 'design for the tall' toepassen kijken we naar de data voor de 12-jarigen. We beslissen om voor P95 te ontwerpen waarbij z95 = 1,645. 
+- hoofd diepte
+µ = 184 mm
+σ = 8,4 mm
+P95 = 184 + 1,645*8,4 = 198 mm
+- hoofd breedte
+µ = 145 mm
+σ = 5,5 mm
+P95 = 145 + 1,645*5,5 = 154 mm
+
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
