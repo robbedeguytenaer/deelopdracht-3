@@ -25,7 +25,7 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 Definieer de belangrijkste designbeslissingen
 
 
-## User test
+## Gebruikerstest (N = 4)
 
 ### Doelstellingen
 Wat wilde je bereiken?
