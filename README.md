@@ -37,7 +37,7 @@ Omdat DINED enkel over data beschikt tot 7-8 jarigen, en we bij DINBelg alle dat
 
 σ = 8,4 mm
 
-P95 = 184 + 1,645*8,4 = 198 mm
+P95 = 184 + 1,645*8,4 = '''198 mm'''
 
 - hoofd breedte
 
