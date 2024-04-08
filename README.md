@@ -31,7 +31,7 @@ Al de data omtrent ergonomie is te vinden op onze Miro.
 <img width="100%" src="beeldmateriaal/DINBelg hoofd diepte en breedte.png"/>
 </p>
 <p>
-<img width="100%" src="beeldmateriaal/DINBelg hoofd diepte en breedte.png"/>
+<img width="100%" src="beeldmateriaal/DINED hoofd omtrek, diepte en breedte.png"/>
 </p>
 
 ### Resultaten
