@@ -27,6 +27,11 @@ Voor omtrek, diepte en breedte bepalen we de toepasselijke ontwerpstrategie: des
 ### Data
 Al de data omtrent ergonomie is te vinden op onze Miro.
 
+<p>
+<img width="100%" src="beeldmateriaal/buitenspelen_grafiek.png"/>
+</p>
+
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
