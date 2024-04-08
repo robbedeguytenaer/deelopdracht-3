@@ -48,6 +48,7 @@ P95 = 184 + 1,645*8,4 = 198 mm
 P95 = 145 + 1,645*5,5 = 154 mm
 
 - hoofd omtrek
+
 Voor de hoofd omtrek hebben we enkel data voor 6-7-8 jarigen, afkomstig van DINED. Deze is dus niet volledig correct. Echter, wanneer we de data van DINBelg bekijken over diepte en breedte zien we dat er een verband is tussen de data op 6-jarige en 12-jarige leeftijd. Bij zowel de diepte als de breedte is de verhouding van het gemiddelde op 12- en 6-jarige leeftijd gelijk aan 1,05. Aangezien de diepte en breedte op 12 jaar met een factor 1,05 verschaald zijn tegenover 6 jaar, zal ook de omtrek met factor 1,05 verschalen (lineair verband). Voor de standaardafwijking behouden we deze uit de DINED tabel, aangezien deze bij DINBelg op 6- en 12-jarige leeftijd bij hoofd diepte en breedte ook ongeveer herzelfde zijn.
 
 µ = 514*1,05 = 540 mm
