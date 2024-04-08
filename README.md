@@ -70,9 +70,13 @@ Hier nog eens de richtwaarden (P95):
 ## Gebruikerstest (n = 4)
 
 ### Doelstellingen
-Wat wilde je bereiken?
+Met deze test willen we checken of kinderen goed met hun arm aan hun eigen hoofd kunnen (voor het bedienen van knoppen op de helm), en of ze daar enige last bij ervaren. Daarnaast willen we ook nagaan wat de geschikte plaats voor deze knoppen is.
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+We onderzochten dit door twee tests te doen.
+
+[klik hier]([https://www.example.com](https://docs.google.com/document/d/1qsDwQ6EiPjP-JWYGr8CEKEJXH-XV2juMJEdnvjv8eBw/edit?usp=sharing))
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
