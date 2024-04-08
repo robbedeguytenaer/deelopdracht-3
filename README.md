@@ -13,6 +13,9 @@ wat moet er zeker in:
 
 ## Onderzoeksvragen
 
+- Welke afmetingen (omtrek, lengte, breedte, hoogte) moet de helm hebben zodat deze goed op het hoofd van een kind van 6 tot 12 jaar past?
+- Is het hand naar het hoofd brengen voor kinderen van 6 tot 12 jaar lastig en welke plaats zou hier geschikt voor zijn?
+
 ## Anthropometrische analyse
 
 ### Doelstellingen
