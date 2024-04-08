@@ -75,7 +75,7 @@ Met deze test willen we checken of kinderen goed met hun arm aan hun eigen hoofd
 ### Materiaal & methoden
 We onderzochten dit door twee tests te doen.
 
-[klik hier]([https://www.example.com](https://docs.google.com/document/d/1qsDwQ6EiPjP-JWYGr8CEKEJXH-XV2juMJEdnvjv8eBw/edit?usp=sharing))
+[klik hier](https://docs.google.com/document/d/1qsDwQ6EiPjP-JWYGr8CEKEJXH-XV2juMJEdnvjv8eBw/edit?usp=sharing)
 
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
