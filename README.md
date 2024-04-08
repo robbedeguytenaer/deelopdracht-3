@@ -17,7 +17,7 @@ Via de Website DINED (DINED, n.d.) en DINBelg (DINBelg 2005 - Antropometrie Tabe
 Voor omtrek, diepte en breedte bepalen we de toepasselijke ontwerpstrategie: design for the tall. Zoals de meeste fietshelmen tegenwoordig kan je de omtrek aanpassen met een verstelsysteem. We zullen dus de binnenkant van de helm voor de grootste ontwerpen en een verstelsysteem toevoegen zodat ook de kleinsten ze kunnen dragen.
 
 ### Data
-Een samenvatting van de ruwe data is hieronder te vinden.
+==Een samenvatting van de ruwe data is hieronder te vinden.==
 
 - DINBelg
 <p>
