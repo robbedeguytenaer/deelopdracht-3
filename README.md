@@ -58,7 +58,13 @@ Voor de hoofd omtrek hebben we enkel data voor 6-7-8 jarigen, afkomstig van DINE
 P95 = 540 + 1,645*13 = 561 mm
 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Dit onderzoek heeft geleid naar drie belangrijke afmetingen die voor de helm kunnen worden gebruikt. Door 'design for the tall' toe te passen hebben we nu de uiterste grensmaten van de binnenkant van de helm. Hierdoor kunnen 12-jarigen met een groter hoofd ons spel nog spelen. Door gebruik te maken van een verstelsysteem zal de helm ook goed zitten om jongere kinderen met kleinere hoofden. 
+
+Hier nog eens de richtwaarden (P95):
+
+- diepte: 198 mm
+- breedte: 154 mm
+- omtrek: 561 mm
 
 
 ## Gebruikerstest (n = 4)
