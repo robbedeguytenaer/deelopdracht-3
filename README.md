@@ -28,9 +28,11 @@ Voor omtrek, diepte en breedte bepalen we de toepasselijke ontwerpstrategie: des
 Al de data omtrent ergonomie is te vinden op onze Miro.
 
 <p>
-<img width="100%" src="beeldmateriaal/buitenspelen_grafiek.png"/>
+<img width="100%" src="beeldmateriaal/DINBelg hoofd diepte en breedte.png"/>
 </p>
-
+<p>
+<img width="100%" src="beeldmateriaal/DINBelg hoofd diepte en breedte.png"/>
+</p>
 
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
