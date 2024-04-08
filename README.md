@@ -13,15 +13,15 @@ wat moet er zeker in:
 
 ## Onderzoeksvragen
 
-- Welke afmetingen (omtrek, lengte, breedte, hoogte) moet de helm hebben zodat deze goed op het hoofd van een kind van 6 tot 12 jaar past?
-- Is het hand naar het hoofd brengen voor kinderen van 6 tot 12 jaar lastig en welke plaats zou hier geschikt voor zijn?
+- Welke afmetingen (omtrek, lengte, breedte) moet de helm hebben zodat deze goed op het hoofd van een kind van 6 tot 12 jaar past?
+- Is het hand naar het hoofd brengen voor kinderen van 6 tot 12 jaar lastig en welke plaats op de helm zou hier geschikt voor zijn?
 
 ## Anthropometrische analyse
-
 ### Doelstellingen
-Wat wilde je bereiken?
+In dit onderzoek willen we nagaan wat de afmetingen van het hoofd van de kinderen uit onze doelgroep zijn. Specifiek willen we de afmetingen van de volgende maten weten: omtrek, lengte, breedte. Met deze afmetingen kunnen wij aan de slag gaan met het maken van een 1:1 prototype van de helm.
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+Via de Website DINED (DINED, n.d.) en DINBelg (DINBelg 2005 - Antropometrie Tabel, n.d.) is veel anthropometrische data terug te vinden. 
+- omtrek: design for the 
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
@@ -52,4 +52,6 @@ Definieer de belangrijkste designbeslissingen
 - Prototype
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+DINED. (n.d.). https://dined.io.tudelft.nl/en/database/tool
+
+DINBelg 2005 - antropometrie tabel. (n.d.). https://www.dinbelg.be/index.htm
