@@ -58,7 +58,7 @@ Voor de hoofd omtrek hebben we enkel data voor 6-7-8 jarigen, afkomstig van DINE
 P95 = 540 + 1,645*13 = 561 mm
 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+`Definieer de belangrijkste designbeslissingen`
 
 
 ## Gebruikerstest (n = 4)
