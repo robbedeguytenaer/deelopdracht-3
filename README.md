@@ -37,7 +37,7 @@ Omdat DINED enkel over data beschikt tot 7-8 jarigen, en we bij DINBelg alle dat
 
 σ = 8,4 mm
 
-P95 = 184 + 1,645*8,4 = '''198 mm'''
+P95 = 184 + 1,645*8,4 = ==198 mm==
 
 - hoofd breedte
 
@@ -45,7 +45,7 @@ P95 = 184 + 1,645*8,4 = '''198 mm'''
 
 σ = 5,5 mm
 
-P95 = 145 + 1,645*5,5 = 154 mm
+P95 = 145 + 1,645*5,5 = ==154 mm==
 
 - hoofd omtrek
 
@@ -55,10 +55,10 @@ Voor de hoofd omtrek hebben we enkel data voor 6-7-8 jarigen, afkomstig van DINE
 
 σ = 13 mm
 
-P95 = 540 + 1,645*13 = 561 mm
+P95 = 540 + 1,645*13 = ==561 mm==
 
 ### Conclusies & implicaties
-`Definieer de belangrijkste designbeslissingen`
+Definieer de belangrijkste designbeslissingen
 
 
 ## Gebruikerstest (n = 4)
