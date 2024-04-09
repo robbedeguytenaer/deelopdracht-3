@@ -79,7 +79,11 @@ Voor deze test gebruiken we een fietshelm met daar op twee kartonnen schijfjes d
 - Positie (2): 50°
 - Positie (3): 90°
 
-Voor het volledige testprotocol [klik hier](https://docs.google.com/document/d/1qsDwQ6EiPjP-JWYGr8CEKEJXH-XV2juMJEdnvjv8eBw/edit?usp=sharing).
+De evaluatie gebeurt door middel van een formulier die elke testpersoon na elke test invult. Per positie krijgen ze telkens twee vragen: 
+1. Hoe moeiteloos voer je de handeling uit (dus geen fysieke klachten)?
+2. Hoe gemakkelijk was het om tot aan de knoppen te geraken met je hand?
+
+De testpersonen moeten deze vragen beantwoorden met een getal van 1 tot en met 10. Voor het volledige testprotocol [klik hier](https://docs.google.com/document/d/1qsDwQ6EiPjP-JWYGr8CEKEJXH-XV2juMJEdnvjv8eBw/edit?usp=sharing).
 
 
 
