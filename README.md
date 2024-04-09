@@ -90,7 +90,7 @@ De testpersonen moeten deze vragen beantwoorden met een getal van 1 tot en met 1
 ### Resultaten
 De analyse van de test vind u [hier](https://docs.google.com/document/d/1ZRpwBia3VsVxvKJdy04LyPjPbcNBf2uAUljXbXaIf1M/edit?usp=sharing).
 
-Hieronder de resultaten in een tabel:
+Hieronder de resultaten in een tabel, waaruit blijkt dat Positie (2) de beste positie is.
 
 ||Positie (1)|Positie (2)|Positie (3)|
 |---:|:---:|:---:|:---:|
