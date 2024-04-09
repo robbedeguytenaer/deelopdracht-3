@@ -89,6 +89,10 @@ De testpersonen moeten deze vragen beantwoorden met een getal van 1 tot en met 1
 
 ### Resultaten
 De analyse van de test vind u [hier](https://docs.google.com/document/d/1ZRpwBia3VsVxvKJdy04LyPjPbcNBf2uAUljXbXaIf1M/edit?usp=sharing).
+
+Hieronder de resultaten in een tabel:
+
+
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
