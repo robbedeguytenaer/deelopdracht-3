@@ -92,16 +92,9 @@ De analyse van de test vind u [hier](https://docs.google.com/document/d/1ZRpwBia
 
 Hieronder de resultaten in een tabel:
 
-||Buttons on steering wheel|Physical buttons|Touchscreen|Voice commands|
-|---:|:---:|:---:|:---:|:---:|
-|Volume|X|X - X|
-|Air conditioning||X|X - X - X|
-|Seat heating||X|X - X - X|
-|Steering wheel heating|||X - X|
-|Navigation|||X - X|X - X|
-|Music|||X - X - X|X - X|
-|Answering calls|||X - X - X|
-|Start calls|||X - X|X|
+||Positie (1)|Positie (2)|Positie (3)|
+|---:|:---:|:---:|:---:|
+|TOTAAL|69|73|65|
 
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
