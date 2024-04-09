@@ -61,7 +61,7 @@ P95 = 540 + 1,645*13 = 561 mm
 Dit onderzoek heeft geleid naar drie belangrijke afmetingen die voor de helm kunnen worden gebruikt. Door 'design for the tall' toe te passen hebben we nu de uiterste grensmaten van de binnenkant van de helm. Hierdoor kunnen 12-jarigen met een groter hoofd ons spel nog spelen. Door gebruik te maken van een verstelsysteem zal de helm ook goed zitten om jongere kinderen met kleinere hoofden.
 
 > [!IMPORTANT]
-> design requirement:
+> design requirement: id = dr005
 > 
 > **- diepte: 198 mm**
 > 
@@ -121,21 +121,10 @@ Hieronder de resultaten in een tabel, waaruit blijkt dat Positie (2) de hoogste 
 De comfortabelste houding (van de drie geteste houdingen) voor de hand naar het hoofd te brengen is rondom de 50°. Ook wordt er zo goed als geen moeite ervaren bij het uitvoeren van de handeling.
 
 > [!IMPORTANT]
-> design requirement:
+> design requirement: id = dr006
 > 
 > **Beide knoppen op de helm moeten symmetrisch op een hoek van 50° gepositioneerd zijn ten opzichte van de vooruitkijkrichting.**
 
-
-## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
 
 ## Bronnen
 DINED. (n.d.). https://dined.io.tudelft.nl/en/database/tool
