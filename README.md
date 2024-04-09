@@ -93,6 +93,7 @@ De analyse van de test vind u [hier](https://docs.google.com/document/d/1ZRpwBia
 Hieronder de resultaten in een tabel:
 
 ||Buttons on steering wheel|Physical buttons|Touchscreen|Voice commands|
+|---:|:---:|:---:|:---:|:---:|
 |Volume|X|X - X|
 |Air conditioning||X|X - X - X|
 |Seat heating||X|X - X - X|
