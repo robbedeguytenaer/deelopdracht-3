@@ -89,6 +89,12 @@ Voor de eigenlijke test gebruiken we een fietshelm met daar op twee kartonnen sc
 - Positie (2): 50°
 - Positie (3): 90°
 
+<p>
+  <img src="beeldmateriaal/schets knoppen positie 1.png" width="32%"/>
+  <img src="beeldmateriaal/schets knoppen positie 2.png" width="32%"/>
+  <img src="beeldmateriaal/schets knoppen positie 3.png" width="32%"/>
+</p>
+
 De evaluatie gebeurt door middel van een formulier die elke testpersoon na elke test invult. Per positie krijgen ze telkens twee vragen: 
 1. Hoe moeiteloos voer je de handeling uit (dus geen fysieke klachten)?
 2. Hoe gemakkelijk was het om tot aan de knoppen te geraken met je hand?
