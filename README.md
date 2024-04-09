@@ -64,8 +64,11 @@ Dit onderzoek heeft geleid naar drie belangrijke afmetingen die voor de helm kun
 > design requirement:
 > 
 > **- diepte: 198 mm**
+> 
 > **- breedte: 154 mm**
+> 
 > **- omtrek: 561 mm**
+> 
 
 
 ## Gebruikerstest (n = 4)
