@@ -75,6 +75,9 @@ Met deze test willen we checken of kinderen goed met hun arm aan hun eigen hoofd
 ### Materiaal & methoden
 Op voorhand checkten we via het CAD programma Siemens NX al of de handeling waarbij de hand naar het hoofd wordt gebracht geen moeizame handeling is. Uit onderstaande afbeelding blijkt dat dit niet zo is. Wanneer de handeling wordt vergeleken met normaal rechtop staan zou deze zelf comfortabeler moeten zijn, volgens NX.
 
+<p>
+<img width="100%" src="beeldmateriaal/NX mannequin test ergonomie.png"/>
+</p>
 
 Voor de eigenlijke test gebruiken we een fietshelm met daar op twee kartonnen schijfjes die dienen als 'knoppen'. De knoppen kunnen we gemakkelijk van plaats veranderen. We voorzien drie verschillende posities van de knoppen op de helm, die u in de bijlage kan bekijken voor meer uitleg. 
 
