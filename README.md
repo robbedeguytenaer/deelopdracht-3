@@ -103,7 +103,9 @@ Hieronder de resultaten in een tabel, waaruit blijkt dat Positie (2) de hoogste 
 |TOTAAL|69|73|65|
 
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+De comfortabelste houding (van de drie geteste houdingen) voor de hand naar het hoofd te brengen is rondom de 50°. Ook wordt er zo goed als geen moeite ervaren bij het uitvoeren van de handeling.
+
+> Beide knoppen op de helm moeten symmetrisch op een hoek van 50° gepositioneerd zijn ten opzichte van de vooruitkijkrichting.
 
 
 ## Bill of materials
