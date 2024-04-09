@@ -107,6 +107,7 @@ De comfortabelste houding (van de drie geteste houdingen) voor de hand naar het 
 
 > [!IMPORTANT]
 > Design requirement:
+> 
 > Beide knoppen op de helm moeten symmetrisch op een hoek van 50° gepositioneerd zijn ten opzichte van de vooruitkijkrichting.
 
 
