@@ -58,13 +58,14 @@ Voor de hoofd omtrek hebben we enkel data voor 6-7-8 jarigen, afkomstig van DINE
 P95 = 540 + 1,645*13 = 561 mm
 
 ### Conclusies & implicaties
-Dit onderzoek heeft geleid naar drie belangrijke afmetingen die voor de helm kunnen worden gebruikt. Door 'design for the tall' toe te passen hebben we nu de uiterste grensmaten van de binnenkant van de helm. Hierdoor kunnen 12-jarigen met een groter hoofd ons spel nog spelen. Door gebruik te maken van een verstelsysteem zal de helm ook goed zitten om jongere kinderen met kleinere hoofden. 
+Dit onderzoek heeft geleid naar drie belangrijke afmetingen die voor de helm kunnen worden gebruikt. Door 'design for the tall' toe te passen hebben we nu de uiterste grensmaten van de binnenkant van de helm. Hierdoor kunnen 12-jarigen met een groter hoofd ons spel nog spelen. Door gebruik te maken van een verstelsysteem zal de helm ook goed zitten om jongere kinderen met kleinere hoofden.
 
-Hier nog eens de richtwaarden (P95):
-
-- diepte: 198 mm
-- breedte: 154 mm
-- omtrek: 561 mm
+> [!IMPORTANT]
+> design requirement:
+> 
+> **- diepte: 198 mm**
+> **- breedte: 154 mm**
+> **- omtrek: 561 mm**
 
 
 ## Gebruikerstest (n = 4)
@@ -106,9 +107,9 @@ Hieronder de resultaten in een tabel, waaruit blijkt dat Positie (2) de hoogste 
 De comfortabelste houding (van de drie geteste houdingen) voor de hand naar het hoofd te brengen is rondom de 50°. Ook wordt er zo goed als geen moeite ervaren bij het uitvoeren van de handeling.
 
 > [!IMPORTANT]
-> Design requirement:
+> design requirement:
 > 
-> Beide knoppen op de helm moeten symmetrisch op een hoek van 50° gepositioneerd zijn ten opzichte van de vooruitkijkrichting.
+> **Beide knoppen op de helm moeten symmetrisch op een hoek van 50° gepositioneerd zijn ten opzichte van de vooruitkijkrichting.**
 
 
 ## Bill of materials
