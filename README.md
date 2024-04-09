@@ -73,7 +73,10 @@ Hier nog eens de richtwaarden (P95):
 Met deze test willen we checken of kinderen goed met hun arm aan hun eigen hoofd kunnen (voor het bedienen van knoppen op de helm), en of ze daar enige last bij ervaren. Daarnaast willen we ook nagaan wat de geschikte plaats voor deze knoppen is.
 
 ### Materiaal & methoden
-Voor deze test gebruiken we een fietshelm met daar op twee kartonnen schijfjes die dienen als 'knoppen'. De knoppen kunnen we gemakkelijk van plaats veranderen. We voorzien drie verschillende posities van de knoppen op de helm, die u in de bijlage kan bekijken voor meer uitleg. 
+Op voorhand checkten we via het CAD programma Siemens NX al of de handeling waarbij de hand naar het hoofd wordt gebracht geen moeizame handeling is. Uit onderstaande afbeelding blijkt dat dit niet zo is. Wanneer de handeling wordt vergeleken met normaal rechtop staan zou deze zelf comfortabeler moeten zijn, volgens NX.
+
+
+Voor de eigenlijke test gebruiken we een fietshelm met daar op twee kartonnen schijfjes die dienen als 'knoppen'. De knoppen kunnen we gemakkelijk van plaats veranderen. We voorzien drie verschillende posities van de knoppen op de helm, die u in de bijlage kan bekijken voor meer uitleg. 
 
 - Positie (1): 30°
 - Positie (2): 50°
@@ -90,7 +93,7 @@ De testpersonen moeten deze vragen beantwoorden met een getal van 1 tot en met 1
 ### Resultaten
 De analyse van de test vind u [hier](https://docs.google.com/document/d/1ZRpwBia3VsVxvKJdy04LyPjPbcNBf2uAUljXbXaIf1M/edit?usp=sharing).
 
-Hieronder de resultaten in een tabel, waaruit blijkt dat Positie (2) de beste positie is.
+Hieronder de resultaten in een tabel, waaruit blijkt dat Positie (2) de hoogste score haalt en dus de beste positie is, volgens de vier testpersonen.
 
 ||Positie (1)|Positie (2)|Positie (3)|
 |---:|:---:|:---:|:---:|
