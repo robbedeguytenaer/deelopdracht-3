@@ -101,7 +101,12 @@ De evaluatie gebeurt door middel van een formulier die elke testpersoon na elke 
 
 De testpersonen moeten deze vragen beantwoorden met een getal van 1 tot en met 10. Voor het volledige testprotocol [klik hier](https://docs.google.com/document/d/1qsDwQ6EiPjP-JWYGr8CEKEJXH-XV2juMJEdnvjv8eBw/edit?usp=sharing).
 
-
+<p>
+  <img src="beeldmateriaal/IMG_4523.JPG" width="24%"/>
+  <img src="beeldmateriaal/IMG_4527.JPG" width="24%"/>
+  <img src="beeldmateriaal/IMG_4532.JPG" width="24%"/>
+  <img src="beeldmateriaal/IMG_4539.JPG" width="24%"/>
+</p>
 
 ### Resultaten
 De analyse van de test vind u [hier](https://docs.google.com/document/d/1ZRpwBia3VsVxvKJdy04LyPjPbcNBf2uAUljXbXaIf1M/edit?usp=sharing).
