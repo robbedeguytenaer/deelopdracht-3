@@ -99,7 +99,7 @@ De evaluatie gebeurt door middel van een formulier die elke testpersoon na elke 
 1. Hoe moeiteloos voer je de handeling uit (dus geen fysieke klachten)?
 2. Hoe gemakkelijk was het om tot aan de knoppen te geraken met je hand?
 
-De testpersonen moeten deze vragen beantwoorden met een getal van 1 tot en met 10. Voor het volledige testprotocol [klik hier](https://docs.google.com/document/d/1qsDwQ6EiPjP-JWYGr8CEKEJXH-XV2juMJEdnvjv8eBw/edit?usp=sharing).
+De testpersonen moeten deze vragen beantwoorden met een getal van 1 tot en met 10. De vragen zijn zo opgesteld dat een hoge score altijd beter is. Uiteindelijk wordt de som genomen van de verschillende scores en vergeleken welke de hoogste is. Voor het volledige testprotocol [klik hier](https://docs.google.com/document/d/1qsDwQ6EiPjP-JWYGr8CEKEJXH-XV2juMJEdnvjv8eBw/edit?usp=sharing).
 
 <p>
   <img src="beeldmateriaal/IMG_4523.JPG" width="24%"/>
