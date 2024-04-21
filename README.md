@@ -116,6 +116,7 @@ Hieronder de resultaten in een tabel, waaruit blijkt dat Positie (2) de hoogste 
 ||Positie (1)|Positie (2)|Positie (3)|
 |---:|:---:|:---:|:---:|
 |TOTAAL|69|73|65|
+|relatief|0,863|0,913|0,813|
 
 ### Conclusies & implicaties
 De comfortabelste houding (van de drie geteste houdingen) voor de hand naar het hoofd te brengen is rondom de 50°. Ook wordt er zo goed als geen moeite ervaren bij het uitvoeren van de handeling.
